@@ -32,4 +32,6 @@ function Profile() {
       </Tabs>
     </div>
   )
-export default Profile;
+}
+
+export default Profile
