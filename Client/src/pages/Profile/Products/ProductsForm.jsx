@@ -132,7 +132,7 @@ function ProductsForm({
                       <option value="fashion">Fashion</option>
                       <option value="home">Home</option>
                       <option value="sport">Sport</option>
-                      <option value="home">Book</option> 
+                      <option value="Book">Book</option> 
                       <option value="toy">Toy</option> 
                     </select>
                   </Form.Item>
